@@ -1,0 +1,180 @@
+body{
+	margin: 0px;
+	background: #E6E6E6;
+	width: 100vw;
+}
+
+.principal{
+	width: 920px;
+	margin: 0 auto;
+}
+.menu{
+	width: 100vw;
+	height: 160px;
+	background: #FFC200;
+	position: relative;
+}
+
+.tec{
+	font-weight: 600;
+	font-size: 50px;
+	color: black;
+	font-family: "Trebuchet MS";
+	position: relative;
+	top: 25px;
+}
+
+.blog{
+	font-weight: 600;
+	font-size: 50px;
+	color: white;
+	font-family: "Trebuchet MS";
+	position: relative;
+	top: 25px;
+}
+
+.itens{
+	color: white;
+	padding: 15px;
+	position: relative;
+	top: 55px;
+	font-family: "Trebuchet MS";
+}
+
+.itens:hover{
+	background: white;
+	color: #FFC200;
+	font-family: "Trebuchet MS";
+}
+
+a{
+	text-decoration: none;
+}
+
+.titulo{
+	color: #FFC200;
+	font-family: "Trebuchet MS";
+	margin-bottom: 0px;
+	margin-left: -15px;
+	padding-left: 13px;	
+}
+.conteudoPrincipal{
+	position: relative;
+	float: left;
+	width: 660px;
+}
+
+img{
+	margin-top: 15px;
+}
+
+p{	
+	font-weight: 700;
+	font-size: 14px;
+	font-family: "Trebuchet MS";
+	margin-top: 0px;
+	margin-bottom: 1px;
+}
+
+.leiaMais{
+	color: #FFC200;
+}
+
+.conteudo1{
+	position: relative;
+	background: white;
+	width: 660px;
+	margin-left: 240px;
+	margin-top: 15px;
+	padding-top: 5px;
+	padding-left: 13px;
+}
+
+.conteudo2{
+	position: relative;
+	background: white;
+	width: 660px;
+	margin-top: 15px;
+	margin-left: 240px;
+	padding-top: 5px;
+	padding-left: 13px;
+}
+
+.rodape{
+	position: relative;
+	background: grey;
+	height: 30px;
+	width: 100%;
+	left: 240px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	padding-top: 15px;
+	padding-left: 13px;
+	opacity: 80%;
+}
+
+.Lateral{	
+	position: absolute;
+	width: 240px;
+	float: right;
+	right: 175px;
+	margin-top: 15px; 
+}
+
+.postagens{
+	padding-top: 10px;
+	position: relative;
+	background: white;
+	height: 170px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.categorias{
+	position: relative;
+	height: 150px;
+	margin-top: 10px;
+	padding-top: 10px;
+	background: white;
+}
+
+.tituloP{
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	background: #BDBDBD;
+	width: 220px;
+	height: 30px;
+	padding-top: 5px;
+	margin-left: -2px;
+	padding-left: 5px;
+}
+
+.tituloC{
+	position: relative;
+	font-family: "Trebuchet MS";
+	font-size: 18px;
+	background: #BDBDBD;
+	width: 220px;
+	height: 30px;
+	padding-top: 10px;
+	margin-left: 7px;
+	padding-left: 5px;
+}
+
+.lista{
+	position: relative;
+	padding-bottom: 2px;
+	padding-left: 7px;
+	color: #FFC200;
+	font-weight: 600;
+	font-family: "Trebuchet MS";
+}
+
+.lista:hover{
+	color: #0A122A;
+}
+
+.leiaMais:hover{
+	text-decoration-line: underline;
+	color: black;
+}
